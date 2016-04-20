@@ -1,0 +1,35 @@
+/*** general styling */
+.ui-page.ui-body-c{
+background:url(images/background.png);
+background-color:rgb(239,235,220);
+box-shadow:  0px 0px 30px 5px rgba(107, 105, 105, 0.3) inset,
+ 0px 0px 0px 1px rgba(107, 105, 105, 0.4) inset;
+
+}
+
+/*** home **/
+
+#branding{
+background:url(images/logo.jpg) no-repeat;
+width:619px;
+height:165px;
+text-indent:-999px;
+font-size:0px;
+margin:-10px auto 0 auto;
+border:1px solid rgba(65, 38, 37, 0.6);
+box-shadow:  0px 0px 30px 5px rgba(107, 105, 105, 0.3) inset,
+ 0px 0px 0px 1px rgba(107, 105, 105, 0.4) inset;
+ border-radius:0.2em;
+
+}
+
+.ui-input-text{
+	background:rgb(#000000); /* White Wine */
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding:6px;
+	border:1px;
+	border-color:rgb(44,33,22); /* Text Brown */
+	box-shadow:  0px 0px 30px 5px rgba(107, 105, 105, 0.3) inset,
+ 	0px 0px 0px 1px rgba(107, 105, 105, 0.4) inset;
+}
+
